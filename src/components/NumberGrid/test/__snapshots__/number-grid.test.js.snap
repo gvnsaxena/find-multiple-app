@@ -1,0 +1,68 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render and match the snapshot 1`] = `
+<div
+  class="number-grid"
+>
+  <div
+    aria-label="Click Number 1"
+    class="number-box highlight-number"
+  >
+    1
+  </div>
+  <div
+    aria-label="Click Number 2"
+    class="number-box highlight-number"
+  >
+    2
+  </div>
+  <div
+    aria-label="Click Number 3"
+    class="number-box highlight-number"
+  >
+    3
+  </div>
+  <div
+    aria-label="Click Number 4"
+    class="number-box highlight-number"
+  >
+    4
+  </div>
+  <div
+    aria-label="Click Number 5"
+    class="number-box highlight-number"
+  >
+    5
+  </div>
+  <div
+    aria-label="Click Number 6"
+    class="number-box highlight-number"
+  >
+    6
+  </div>
+  <div
+    aria-label="Click Number 7"
+    class="number-box highlight-number"
+  >
+    7
+  </div>
+  <div
+    aria-label="Click Number 8"
+    class="number-box highlight-number"
+  >
+    8
+  </div>
+  <div
+    aria-label="Click Number 9"
+    class="number-box highlight-number"
+  >
+    9
+  </div>
+  <div
+    aria-label="Click Number 10"
+    class="number-box highlight-number"
+  >
+    10
+  </div>
+</div>
+`;

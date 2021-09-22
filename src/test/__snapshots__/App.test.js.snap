@@ -1,0 +1,872 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render and match the snapshot 1`] = `
+<div
+  class="number-grid"
+>
+  <div
+    aria-label="Click Number 1"
+    class="number-box "
+  >
+    1
+  </div>
+  <div
+    aria-label="Click Number 2"
+    class="number-box "
+  >
+    2
+  </div>
+  <div
+    aria-label="Click Number 3"
+    class="number-box "
+  >
+    3
+  </div>
+  <div
+    aria-label="Click Number 4"
+    class="number-box "
+  >
+    4
+  </div>
+  <div
+    aria-label="Click Number 5"
+    class="number-box "
+  >
+    5
+  </div>
+  <div
+    aria-label="Click Number 6"
+    class="number-box "
+  >
+    6
+  </div>
+  <div
+    aria-label="Click Number 7"
+    class="number-box "
+  >
+    7
+  </div>
+  <div
+    aria-label="Click Number 8"
+    class="number-box "
+  >
+    8
+  </div>
+  <div
+    aria-label="Click Number 9"
+    class="number-box "
+  >
+    9
+  </div>
+  <div
+    aria-label="Click Number 10"
+    class="number-box "
+  >
+    10
+  </div>
+  <div
+    aria-label="Click Number 11"
+    class="number-box "
+  >
+    11
+  </div>
+  <div
+    aria-label="Click Number 12"
+    class="number-box "
+  >
+    12
+  </div>
+  <div
+    aria-label="Click Number 13"
+    class="number-box "
+  >
+    13
+  </div>
+  <div
+    aria-label="Click Number 14"
+    class="number-box "
+  >
+    14
+  </div>
+  <div
+    aria-label="Click Number 15"
+    class="number-box "
+  >
+    15
+  </div>
+  <div
+    aria-label="Click Number 16"
+    class="number-box "
+  >
+    16
+  </div>
+  <div
+    aria-label="Click Number 17"
+    class="number-box "
+  >
+    17
+  </div>
+  <div
+    aria-label="Click Number 18"
+    class="number-box "
+  >
+    18
+  </div>
+  <div
+    aria-label="Click Number 19"
+    class="number-box "
+  >
+    19
+  </div>
+  <div
+    aria-label="Click Number 20"
+    class="number-box "
+  >
+    20
+  </div>
+  <div
+    aria-label="Click Number 21"
+    class="number-box "
+  >
+    21
+  </div>
+  <div
+    aria-label="Click Number 22"
+    class="number-box "
+  >
+    22
+  </div>
+  <div
+    aria-label="Click Number 23"
+    class="number-box "
+  >
+    23
+  </div>
+  <div
+    aria-label="Click Number 24"
+    class="number-box "
+  >
+    24
+  </div>
+  <div
+    aria-label="Click Number 25"
+    class="number-box "
+  >
+    25
+  </div>
+  <div
+    aria-label="Click Number 26"
+    class="number-box "
+  >
+    26
+  </div>
+  <div
+    aria-label="Click Number 27"
+    class="number-box "
+  >
+    27
+  </div>
+  <div
+    aria-label="Click Number 28"
+    class="number-box "
+  >
+    28
+  </div>
+  <div
+    aria-label="Click Number 29"
+    class="number-box "
+  >
+    29
+  </div>
+  <div
+    aria-label="Click Number 30"
+    class="number-box "
+  >
+    30
+  </div>
+  <div
+    aria-label="Click Number 31"
+    class="number-box "
+  >
+    31
+  </div>
+  <div
+    aria-label="Click Number 32"
+    class="number-box "
+  >
+    32
+  </div>
+  <div
+    aria-label="Click Number 33"
+    class="number-box "
+  >
+    33
+  </div>
+  <div
+    aria-label="Click Number 34"
+    class="number-box "
+  >
+    34
+  </div>
+  <div
+    aria-label="Click Number 35"
+    class="number-box "
+  >
+    35
+  </div>
+  <div
+    aria-label="Click Number 36"
+    class="number-box "
+  >
+    36
+  </div>
+  <div
+    aria-label="Click Number 37"
+    class="number-box "
+  >
+    37
+  </div>
+  <div
+    aria-label="Click Number 38"
+    class="number-box "
+  >
+    38
+  </div>
+  <div
+    aria-label="Click Number 39"
+    class="number-box "
+  >
+    39
+  </div>
+  <div
+    aria-label="Click Number 40"
+    class="number-box "
+  >
+    40
+  </div>
+  <div
+    aria-label="Click Number 41"
+    class="number-box "
+  >
+    41
+  </div>
+  <div
+    aria-label="Click Number 42"
+    class="number-box "
+  >
+    42
+  </div>
+  <div
+    aria-label="Click Number 43"
+    class="number-box "
+  >
+    43
+  </div>
+  <div
+    aria-label="Click Number 44"
+    class="number-box "
+  >
+    44
+  </div>
+  <div
+    aria-label="Click Number 45"
+    class="number-box "
+  >
+    45
+  </div>
+  <div
+    aria-label="Click Number 46"
+    class="number-box "
+  >
+    46
+  </div>
+  <div
+    aria-label="Click Number 47"
+    class="number-box "
+  >
+    47
+  </div>
+  <div
+    aria-label="Click Number 48"
+    class="number-box "
+  >
+    48
+  </div>
+  <div
+    aria-label="Click Number 49"
+    class="number-box "
+  >
+    49
+  </div>
+  <div
+    aria-label="Click Number 50"
+    class="number-box "
+  >
+    50
+  </div>
+  <div
+    aria-label="Click Number 51"
+    class="number-box "
+  >
+    51
+  </div>
+  <div
+    aria-label="Click Number 52"
+    class="number-box "
+  >
+    52
+  </div>
+  <div
+    aria-label="Click Number 53"
+    class="number-box "
+  >
+    53
+  </div>
+  <div
+    aria-label="Click Number 54"
+    class="number-box "
+  >
+    54
+  </div>
+  <div
+    aria-label="Click Number 55"
+    class="number-box "
+  >
+    55
+  </div>
+  <div
+    aria-label="Click Number 56"
+    class="number-box "
+  >
+    56
+  </div>
+  <div
+    aria-label="Click Number 57"
+    class="number-box "
+  >
+    57
+  </div>
+  <div
+    aria-label="Click Number 58"
+    class="number-box "
+  >
+    58
+  </div>
+  <div
+    aria-label="Click Number 59"
+    class="number-box "
+  >
+    59
+  </div>
+  <div
+    aria-label="Click Number 60"
+    class="number-box "
+  >
+    60
+  </div>
+  <div
+    aria-label="Click Number 61"
+    class="number-box "
+  >
+    61
+  </div>
+  <div
+    aria-label="Click Number 62"
+    class="number-box "
+  >
+    62
+  </div>
+  <div
+    aria-label="Click Number 63"
+    class="number-box "
+  >
+    63
+  </div>
+  <div
+    aria-label="Click Number 64"
+    class="number-box "
+  >
+    64
+  </div>
+  <div
+    aria-label="Click Number 65"
+    class="number-box "
+  >
+    65
+  </div>
+  <div
+    aria-label="Click Number 66"
+    class="number-box "
+  >
+    66
+  </div>
+  <div
+    aria-label="Click Number 67"
+    class="number-box "
+  >
+    67
+  </div>
+  <div
+    aria-label="Click Number 68"
+    class="number-box "
+  >
+    68
+  </div>
+  <div
+    aria-label="Click Number 69"
+    class="number-box "
+  >
+    69
+  </div>
+  <div
+    aria-label="Click Number 70"
+    class="number-box "
+  >
+    70
+  </div>
+  <div
+    aria-label="Click Number 71"
+    class="number-box "
+  >
+    71
+  </div>
+  <div
+    aria-label="Click Number 72"
+    class="number-box "
+  >
+    72
+  </div>
+  <div
+    aria-label="Click Number 73"
+    class="number-box "
+  >
+    73
+  </div>
+  <div
+    aria-label="Click Number 74"
+    class="number-box "
+  >
+    74
+  </div>
+  <div
+    aria-label="Click Number 75"
+    class="number-box "
+  >
+    75
+  </div>
+  <div
+    aria-label="Click Number 76"
+    class="number-box "
+  >
+    76
+  </div>
+  <div
+    aria-label="Click Number 77"
+    class="number-box "
+  >
+    77
+  </div>
+  <div
+    aria-label="Click Number 78"
+    class="number-box "
+  >
+    78
+  </div>
+  <div
+    aria-label="Click Number 79"
+    class="number-box "
+  >
+    79
+  </div>
+  <div
+    aria-label="Click Number 80"
+    class="number-box "
+  >
+    80
+  </div>
+  <div
+    aria-label="Click Number 81"
+    class="number-box "
+  >
+    81
+  </div>
+  <div
+    aria-label="Click Number 82"
+    class="number-box "
+  >
+    82
+  </div>
+  <div
+    aria-label="Click Number 83"
+    class="number-box "
+  >
+    83
+  </div>
+  <div
+    aria-label="Click Number 84"
+    class="number-box "
+  >
+    84
+  </div>
+  <div
+    aria-label="Click Number 85"
+    class="number-box "
+  >
+    85
+  </div>
+  <div
+    aria-label="Click Number 86"
+    class="number-box "
+  >
+    86
+  </div>
+  <div
+    aria-label="Click Number 87"
+    class="number-box "
+  >
+    87
+  </div>
+  <div
+    aria-label="Click Number 88"
+    class="number-box "
+  >
+    88
+  </div>
+  <div
+    aria-label="Click Number 89"
+    class="number-box "
+  >
+    89
+  </div>
+  <div
+    aria-label="Click Number 90"
+    class="number-box "
+  >
+    90
+  </div>
+  <div
+    aria-label="Click Number 91"
+    class="number-box "
+  >
+    91
+  </div>
+  <div
+    aria-label="Click Number 92"
+    class="number-box "
+  >
+    92
+  </div>
+  <div
+    aria-label="Click Number 93"
+    class="number-box "
+  >
+    93
+  </div>
+  <div
+    aria-label="Click Number 94"
+    class="number-box "
+  >
+    94
+  </div>
+  <div
+    aria-label="Click Number 95"
+    class="number-box "
+  >
+    95
+  </div>
+  <div
+    aria-label="Click Number 96"
+    class="number-box "
+  >
+    96
+  </div>
+  <div
+    aria-label="Click Number 97"
+    class="number-box "
+  >
+    97
+  </div>
+  <div
+    aria-label="Click Number 98"
+    class="number-box "
+  >
+    98
+  </div>
+  <div
+    aria-label="Click Number 99"
+    class="number-box "
+  >
+    99
+  </div>
+  <div
+    aria-label="Click Number 100"
+    class="number-box "
+  >
+    100
+  </div>
+  <div
+    aria-label="Click Number 101"
+    class="number-box "
+  >
+    101
+  </div>
+  <div
+    aria-label="Click Number 102"
+    class="number-box "
+  >
+    102
+  </div>
+  <div
+    aria-label="Click Number 103"
+    class="number-box "
+  >
+    103
+  </div>
+  <div
+    aria-label="Click Number 104"
+    class="number-box "
+  >
+    104
+  </div>
+  <div
+    aria-label="Click Number 105"
+    class="number-box "
+  >
+    105
+  </div>
+  <div
+    aria-label="Click Number 106"
+    class="number-box "
+  >
+    106
+  </div>
+  <div
+    aria-label="Click Number 107"
+    class="number-box "
+  >
+    107
+  </div>
+  <div
+    aria-label="Click Number 108"
+    class="number-box "
+  >
+    108
+  </div>
+  <div
+    aria-label="Click Number 109"
+    class="number-box "
+  >
+    109
+  </div>
+  <div
+    aria-label="Click Number 110"
+    class="number-box "
+  >
+    110
+  </div>
+  <div
+    aria-label="Click Number 111"
+    class="number-box "
+  >
+    111
+  </div>
+  <div
+    aria-label="Click Number 112"
+    class="number-box "
+  >
+    112
+  </div>
+  <div
+    aria-label="Click Number 113"
+    class="number-box "
+  >
+    113
+  </div>
+  <div
+    aria-label="Click Number 114"
+    class="number-box "
+  >
+    114
+  </div>
+  <div
+    aria-label="Click Number 115"
+    class="number-box "
+  >
+    115
+  </div>
+  <div
+    aria-label="Click Number 116"
+    class="number-box "
+  >
+    116
+  </div>
+  <div
+    aria-label="Click Number 117"
+    class="number-box "
+  >
+    117
+  </div>
+  <div
+    aria-label="Click Number 118"
+    class="number-box "
+  >
+    118
+  </div>
+  <div
+    aria-label="Click Number 119"
+    class="number-box "
+  >
+    119
+  </div>
+  <div
+    aria-label="Click Number 120"
+    class="number-box "
+  >
+    120
+  </div>
+  <div
+    aria-label="Click Number 121"
+    class="number-box "
+  >
+    121
+  </div>
+  <div
+    aria-label="Click Number 122"
+    class="number-box "
+  >
+    122
+  </div>
+  <div
+    aria-label="Click Number 123"
+    class="number-box "
+  >
+    123
+  </div>
+  <div
+    aria-label="Click Number 124"
+    class="number-box "
+  >
+    124
+  </div>
+  <div
+    aria-label="Click Number 125"
+    class="number-box "
+  >
+    125
+  </div>
+  <div
+    aria-label="Click Number 126"
+    class="number-box "
+  >
+    126
+  </div>
+  <div
+    aria-label="Click Number 127"
+    class="number-box "
+  >
+    127
+  </div>
+  <div
+    aria-label="Click Number 128"
+    class="number-box "
+  >
+    128
+  </div>
+  <div
+    aria-label="Click Number 129"
+    class="number-box "
+  >
+    129
+  </div>
+  <div
+    aria-label="Click Number 130"
+    class="number-box "
+  >
+    130
+  </div>
+  <div
+    aria-label="Click Number 131"
+    class="number-box "
+  >
+    131
+  </div>
+  <div
+    aria-label="Click Number 132"
+    class="number-box "
+  >
+    132
+  </div>
+  <div
+    aria-label="Click Number 133"
+    class="number-box "
+  >
+    133
+  </div>
+  <div
+    aria-label="Click Number 134"
+    class="number-box "
+  >
+    134
+  </div>
+  <div
+    aria-label="Click Number 135"
+    class="number-box "
+  >
+    135
+  </div>
+  <div
+    aria-label="Click Number 136"
+    class="number-box "
+  >
+    136
+  </div>
+  <div
+    aria-label="Click Number 137"
+    class="number-box "
+  >
+    137
+  </div>
+  <div
+    aria-label="Click Number 138"
+    class="number-box "
+  >
+    138
+  </div>
+  <div
+    aria-label="Click Number 139"
+    class="number-box "
+  >
+    139
+  </div>
+  <div
+    aria-label="Click Number 140"
+    class="number-box "
+  >
+    140
+  </div>
+  <div
+    aria-label="Click Number 141"
+    class="number-box "
+  >
+    141
+  </div>
+  <div
+    aria-label="Click Number 142"
+    class="number-box "
+  >
+    142
+  </div>
+  <div
+    aria-label="Click Number 143"
+    class="number-box "
+  >
+    143
+  </div>
+  <div
+    aria-label="Click Number 144"
+    class="number-box "
+  >
+    144
+  </div>
+</div>
+`;
